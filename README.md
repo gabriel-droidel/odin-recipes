@@ -8,5 +8,5 @@
 
 ### First Stage
 Basic HTML page structure
-![Main page HTML](../odin-recipes/assets/stage1_main.png)
-![Recipe Page HTML](../odin-recipes/assets/stage1_recipe_page.png)
+![Main page HTML](/assets/stage1_main.png)
+![Recipe Page HTML](/assets/stage1_recipe_page.png)
