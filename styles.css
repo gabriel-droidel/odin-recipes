@@ -1,18 +1,24 @@
 body,
 html,
-h1,h2,p,ul,ol{
+h1,h2,h3,p,ul,ol,a{
     margin:0;
     padding:0;
+    font-family: 'Poppins', sans-serif;
 }
 body{
     min-height: 100vh;
     padding:20px;
+    margin:0 auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap:2rem;
     background-color:beige ;
+}
+
+P,ol{
+    max-width: 50vw;
 }
 
 a{
@@ -25,4 +31,7 @@ a:hover{
 }
 ol,ul{
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
 }
