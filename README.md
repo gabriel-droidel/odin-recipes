@@ -8,5 +8,10 @@
 
 ### First Stage
 Basic HTML page structure
-![Main page HTML](/assets/stage1_main.png)
-![Recipe Page HTML](/assets/stage1_recipe_page.png)
+![Main page](/assets/stage1_main.png)
+![Recipe page](/assets/stage1_recipe_page.png)
+
+### Second Stage
+Basic CSS on the page
+![Main page](/assets/stage2_main.png)
+![Recipe page](/assets/stage2_recipe_page.png)
