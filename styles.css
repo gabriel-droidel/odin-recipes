@@ -1,0 +1,28 @@
+body,
+html,
+h1,h2,p,ul,ol{
+    margin:0;
+    padding:0;
+}
+body{
+    min-height: 100vh;
+    padding:20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:2rem;
+    background-color:beige ;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+    font-size: 32px;
+}
+a:hover{
+    color: blueviolet;
+}
+ol,ul{
+    list-style: none;
+}
